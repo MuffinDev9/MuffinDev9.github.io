@@ -38,3 +38,12 @@ nav ul li a {
 	text-decoration: none;
 	color: #111111;
 }
+ha {
+	font-size: 50px;
+}
+section {
+	border: 2px solid #111111;
+	border-radius: 20px;
+	background-color: #0f7000;
+	padding: 5px;
+}
