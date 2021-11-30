@@ -20,6 +20,6 @@ function changeBack() {
 
 // Button To Change Thing
 function changingVariables() {
-	var name = "My Name is Thomas!";
+	var name = "My Name is Muffin!";
 	document.getElementById("ToVariable").innerHTML = name;
 }
